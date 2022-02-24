@@ -1,6 +1,7 @@
 {
   "userId": 1,
   "id": 1,
-  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  "token": "eyJhbGci0iJIUZI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIi0iIxMjMONTY30DkwIiwibmFtZSI6IkpvaG4gRG91IiwiaXNTb2NpYWwiOnRydwV9.4pcPyMD09o1PSyXnrXCjTwXyr4BsezdI1AVTmud2fU4",
+  "name": "Trương Đình Sang",
+  "permission" : "1,2",
 }
